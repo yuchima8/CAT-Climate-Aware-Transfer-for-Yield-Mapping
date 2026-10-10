@@ -28,6 +28,17 @@ conda activate cat
 
 The experiments run on a CPU.
 
+## Usage
+
+Train the models and write county-level predictions and metrics to `../outputs`:
+
+```bash
+python run_mlp.py  --crop soybean        # also: corn, winter_wheat
+python run_rf.py   --crop soybean
+python run_dann.py --crop soybean
+python run_kmm.py  --crop soybean
+```
+
 ## Data
 
 The scripts expect the data folder next to this repository (`../data`). Pass `--data` (and `--predictions` for the analysis scripts) to use another location.
