@@ -65,7 +65,7 @@ The US and Argentina data used in this study are publicly available. Please down
 
 **Source data.** The HLS and ERA5-Land source data are publicly available, for example through Google Earth Engine (https://earthengine.google.com/). Crop masks were derived from the USDA Cropland Data Layer and published crop type maps of Argentina (de Abelleyra et al., 2020, 2024).
 
-**Ukraine.** The Ukraine experiments are not included. The county-level yield data for Ukraine were obtained from the State Statistics Service of Ukraine under an agreement that does not permit redistribution. Interested users may request these data from the State Statistics Service of Ukraine.
+**Ukraine.** The Ukraine experiments are not included. The county-level yield data for Ukraine were obtained from the State Statistics Service of Ukraine under an agreement that does not permit redistribution. Interested users may request these data from the State Statistics Service of Ukraine. 
 
 ## Citation
 
