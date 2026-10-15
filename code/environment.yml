@@ -1,0 +1,12 @@
+name: cat
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy=2.4.2
+  - pandas=3.0.0
+  - scipy=1.17.0
+  - scikit-learn=1.8.0
+  - statsmodels=0.14.6
+  - pytorch=2.5.1
